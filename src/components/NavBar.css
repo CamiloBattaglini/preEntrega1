@@ -1,0 +1,31 @@
+header{
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 19px;
+    
+}
+
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+}
+
+li{
+    width: 100%;
+    list-style: none;
+    padding: 20px;    
+}
+
+
+a:hover{
+    color: red;
+}
