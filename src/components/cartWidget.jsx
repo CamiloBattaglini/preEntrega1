@@ -1,6 +1,6 @@
 import React from 'react';
 import './cartWidget.css'
-import cartIcon from '../assets/carrito-de-compras.png'; // Ajusta la ruta a tu imagen
+import cartIcon from '../assets/carrito-de-compras.png';
 
 function CartWidget(){
     return (
